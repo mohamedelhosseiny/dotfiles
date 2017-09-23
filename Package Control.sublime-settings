@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Bootstrap 3 Autocomplete",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"jQuery",
+		"JsFormat",
+		"JSHint",
+		"LiveReload",
+		"Package Control",
+		"PackageSync",
+		"Predawn",
+		"SideBarEnhancements",
+		"TernJS",
+		"Vuejs Complete Package",
+		"Web Inspector"
+	]
+}
